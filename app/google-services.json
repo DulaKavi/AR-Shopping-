@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254744109479",
+    "project_id": "arshoping-e84b7",
+    "storage_bucket": "arshoping-e84b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254744109479:android:4bfcd084385ac48cc65682",
+        "android_client_info": {
+          "package_name": "com.example.ecommercapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254744109479-u7s2rbeuvc43q610a1vp1gdhhq5tvps7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_ipPMKHvHzzZxQclhhst7Q7Jr1u8L5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254744109479-u7s2rbeuvc43q610a1vp1gdhhq5tvps7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

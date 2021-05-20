@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Ecommercapp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/light_green</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+
+
+
+    <style name="search_bar_theme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="android:background">@drawable/search_back_ground_dark</item>
+
+    </style>
+
+    <style name="anim_back" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="android:background">@color/card_dark</item>
+
+    </style>
+
+    <!--    Animation bootm theme-->
+    <style name="BottomDialogThme" parent="Theme.MaterialComponents.DayNight.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+
+
+    <style name="BottomSheetStyle" parent="Theme.MaterialComponents.DayNight.BottomSheetDialog" >
+        <item name="android:background">@drawable/bottom_sheet_background_dark</item>
+    </style>
+
+
+</resources>

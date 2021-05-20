@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="light_green">#4ee7e0</color>
+    <color name="light_blue">#1098AA</color>
+    <color name="blue">#016fd2</color>
+    <color name="menu_blue">#137DDC</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="card_light">#EFEFEF</color>
+    <color name="card_dark">#2C2C2C</color>
+    <color name="red_light">#E32E2E</color>
+    <color name="green_light">#4CAF50</color>
+
+
+
+    <color name="bottom_bar_dark">#2C2C2C</color>
+    <color name="bottom_bar_light">#e5e5e5</color>
+</resources>
+
